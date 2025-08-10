@@ -1,0 +1,35 @@
+﻿[
+  {
+    "name": "Apple",
+    "brand": null,
+    "servingSize": "1 medium (182g)",
+    "calories": 95,
+    "proteinG": 0.5,
+    "carbsG": 25,
+    "fatG": 0.3,
+    "barcode": null,
+    "isFavorite": false
+  },
+  {
+    "name": "Banana",
+    "brand": null,
+    "servingSize": "1 medium (118g)",
+    "calories": 105,
+    "proteinG": 1.3,
+    "carbsG": 27,
+    "fatG": 0.3,
+    "barcode": null,
+    "isFavorite": false
+  },
+  {
+    "name": "Greek Yogurt, Plain",
+    "brand": "Brandless",
+    "servingSize": "170g",
+    "calories": 100,
+    "proteinG": 17,
+    "carbsG": 6,
+    "fatG": 0.7,
+    "barcode": "0123456789012",
+    "isFavorite": true
+  }
+]

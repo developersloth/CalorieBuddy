@@ -1,0 +1,72 @@
+﻿[
+  {
+    "name": "Walking, brisk (3.5 mph \u2248 5.6 km/h)",
+    "category": "cardio",
+    "met": 4.3
+  },
+  {
+    "name": "Running, 5 mph (8.0 km/h)",
+    "category": "cardio",
+    "met": 8.3
+  },
+  {
+    "name": "Cycling, 12\u201314 mph (19\u201323 km/h)",
+    "category": "cardio",
+    "met": 8.0
+  },
+  {
+    "name": "Cycling, 16\u201319 mph (26\u201330 km/h)",
+    "category": "cardio",
+    "met": 12.0
+  },
+  {
+    "name": "Swimming, freestyle, moderate",
+    "category": "cardio",
+    "met": 8.0
+  },
+  {
+    "name": "Basketball, game",
+    "category": "sports",
+    "met": 8.0
+  },
+  {
+    "name": "Soccer, casual",
+    "category": "sports",
+    "met": 7.0
+  },
+  {
+    "name": "Tennis, singles",
+    "category": "sports",
+    "met": 8.0
+  },
+  {
+    "name": "Badminton, recreational",
+    "category": "sports",
+    "met": 4.5
+  },
+  {
+    "name": "Weight training, light/moderate",
+    "category": "strength",
+    "met": 3.5
+  },
+  {
+    "name": "Weight training, vigorous",
+    "category": "strength",
+    "met": 6.0
+  },
+  {
+    "name": "Circuit training, minimal rest",
+    "category": "strength",
+    "met": 8.0
+  },
+  {
+    "name": "Yoga, Power/Vinyasa",
+    "category": "lifestyle",
+    "met": 4.0
+  },
+  {
+    "name": "Calisthenics, moderate",
+    "category": "lifestyle",
+    "met": 3.8
+  }
+]

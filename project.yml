@@ -1,0 +1,33 @@
+﻿name: CalorieBuddy
+options:
+  bundleIdPrefix: com.example
+  deploymentTarget:
+    iOS: "18.0"
+targets:
+  CalorieBuddy:
+    type: application
+    platform: iOS
+    sources:
+      - path: Sources
+      - path: Resources
+        type: resources
+      - path: Assets
+        type: folder
+    info:
+      path: Resources/Info.plist
+    settings:
+      base:
+        PRODUCT_NAME: CalorieBuddy
+        SWIFT_VERSION: 5.0
+        CURRENT_PROJECT_VERSION: 1
+        MARKETING_VERSION: 1.1.0
+    scheme:
+      testTargets: [CalorieBuddyTests]
+  CalorieBuddyTests:
+    type: bundle.unit-test
+    platform: iOS
+    sources:
+      - path: Tests
+    settings:
+      base:
+        INFOPLIST_FILE: Resources/Info.plist
